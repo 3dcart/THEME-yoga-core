@@ -22,6 +22,9 @@ a:focus, a:hover {
     color: #36235f;
     text-decoration: underline;
 }
+.homeCarousel .slides>li {
+    z-index: 0 !important;
+}
 .btn-link{color:#000;}
 body {    
     font-family: 'Castoro', serif;

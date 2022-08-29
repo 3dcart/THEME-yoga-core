@@ -18,6 +18,9 @@ a {
     color: #313131;
     text-decoration: none;
 }
+.homeCarousel .slides>li {
+    z-index: 0 !important;
+}
 a:focus, a:hover {
     color: #36235f;
     text-decoration: underline;
